@@ -111,5 +111,5 @@ theme: butterfly ##主题
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: # 在 _config.private.yml 中配置
-  branch: master
+  repo: root@117.72.83.61:/home/blog.git
+  branch: main
