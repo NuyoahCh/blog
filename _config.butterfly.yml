@@ -1074,7 +1074,6 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    - <link rel="stylesheet" href="/css/custom.css">
     - <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
     - <style>.footer-item{transition:all 0.3s ease;display:inline-block;margin:0 10px}.footer-item:hover{transform:translateY(-2px);color:#49b1f5}.footer-item i{transition:all 0.3s ease}.footer-item:hover i{transform:scale(1.2)}.heart-icon{animation:heartbeat 1.5s ease-in-out infinite}@keyframes heartbeat{0%{transform:scale(1)}50%{transform:scale(1.2)}100%{transform:scale(1)}}.shield-icon{animation:shield 2s ease-in-out infinite}@keyframes shield{0%{transform:rotate(0deg)}50%{transform:rotate(10deg)}100%{transform:rotate(0deg)}}.clock-icon{animation:clock 3s ease-in-out infinite}@keyframes clock{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style>
 
